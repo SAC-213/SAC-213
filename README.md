@@ -22,7 +22,7 @@ I'm an Artificial Intelligence Engineering student interested in:
 
 - 📚 Improving my competitive programming skills ❤❤
 - ⚙️ Low-level programming projects ❤❤❤
-- 🌐 Personal portfolio and web experiments ❤❤
+- 🌐 Personal web platform focused on portfolio and experiments ❤❤
 
 ##### Most of my projects are experiments where I try to learn something new.
 
