@@ -26,10 +26,6 @@ I'm an Artificial Intelligence Engineering student interested in:
 
 ##### Most of my projects are experiments where I try to learn something new.
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/NWW1Za3Xeu4AAAAj/neco-arc-neco.gif" />
-</div>
-
 <br />
 
 ### Languages
@@ -53,6 +49,9 @@ I'm an Artificial Intelligence Engineering student interested in:
   <img width="20%" height="20%" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github.png">
 </div>
 
+<div align="center">
+  <img height="200" src="https://media.tenor.com/NWW1Za3Xeu4AAAAj/neco-arc-neco.gif" />
+</div>
 
 <div align="center">
   <img src="https://github.com/SAC-213/SAC-213/blob/main/Bottom.png?raw=true" />
